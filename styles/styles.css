@@ -11326,7 +11326,7 @@ p {
 }
 
 .section-heading {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 .section-heading .section-heading-upper {
   display: block;
@@ -11335,7 +11335,7 @@ p {
 }
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  /* font-size: 3rem; */
   font-weight: 100;
 }
 
@@ -11431,13 +11431,13 @@ p {
   .intro .intro-text {
     left: 0;
     width: 60%;
-    margin-top: 3rem;
-    position: absolute;
+    /* margin-top: 3rem; */
+    /* position: absolute; */
   }
   .intro .intro-text .intro-button {
     width: 100%;
     left: 0;
-    position: absolute;
+    /* position: absolute; */
     bottom: -2rem;
   }
 }
